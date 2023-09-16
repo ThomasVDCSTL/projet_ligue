@@ -1,0 +1,18 @@
+.flexbox{
+    display: flex;
+}
+.border{
+    border: 2px solid black;
+}
+.flexcol{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flexspace{
+    justify-content: space-around;
+    align-items: center;
+}
+.wid100{
+    width: 100%;
+}
