@@ -4,6 +4,7 @@ namespace Classes;
 
 class Team
 {
+    public string $name;
     protected Player $toplaner;
     protected Player $jungler;
     protected Player $midlaner;
